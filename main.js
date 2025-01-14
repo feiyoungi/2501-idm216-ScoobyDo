@@ -7,4 +7,7 @@ function fade2Content() {
   document.body.classList.remove("blackScreen");
 }
 
+
 console.log('fei');
+console.log('amy');
+
